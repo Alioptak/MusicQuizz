@@ -1,0 +1,10 @@
+name: mquizz
+main: fr.Alioptak.MiscQuizz.Main
+version: 1.0
+commands:
+   mquizz:
+      description: rejoindre la partie
+      permission: mquizz.join
+      permission-message: error.
+   15:
+      description: force start
